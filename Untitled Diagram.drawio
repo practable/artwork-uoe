@@ -55,16 +55,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBAFX8p-pL9AhC7b1bqR-57" value="Infrastructure" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qBAFX8p-pL9AhC7b1bqR-57" value="Infrastructure&#xa;Expt Officer Remote Labs" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="437" y="1061" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qBAFX8p-pL9AhC7b1bqR-58" value="User Interface" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qBAFX8p-pL9AhC7b1bqR-58" value="User Interface&#xa;Researcher" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="707" y="1060" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qBAFX8p-pL9AhC7b1bqR-59" value="Electronics &amp; Firmware" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qBAFX8p-pL9AhC7b1bqR-59" value="Electronics &amp; Firmware&#xa;STO Electronics Design" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="997" y="1060" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qBAFX8p-pL9AhC7b1bqR-60" value="Hardware" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qBAFX8p-pL9AhC7b1bqR-60" value="Hardware&#xa;STO Mechanical Design" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1247" y="1060" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qBAFX8p-pL9AhC7b1bqR-61" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;" edge="1" target="qBAFX8p-pL9AhC7b1bqR-57" parent="1">
@@ -94,12 +94,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qBAFX8p-pL9AhC7b1bqR-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.47;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="qBAFX8p-pL9AhC7b1bqR-59" parent="1" source="18">
+        <mxCell id="qBAFX8p-pL9AhC7b1bqR-64" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.47;exitY=1.058;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
-            <mxPoint x="940" y="676.5" as="sourcePoint" />
-            <mxPoint x="290" y="436" as="targetPoint" />
+            <mxPoint x="940" y="679.98" as="sourcePoint" />
+            <mxPoint x="1024" y="1061" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1020" y="1000" />
+              <mxPoint x="1024" y="1001" />
             </Array>
           </mxGeometry>
         </mxCell>
